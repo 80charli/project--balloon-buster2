@@ -30,7 +30,7 @@ function setup() {
   scene.scale = 2.5
   
   // creating bow to shoot arrow
-  bow = createSprite(380,220,20,50);
+  bow = createSprite(350,220,20,50);
   bow.addImage(bowImage); 
   bow.scale = 1;
   
